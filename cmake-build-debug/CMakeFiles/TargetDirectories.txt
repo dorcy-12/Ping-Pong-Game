@@ -1,0 +1,3 @@
+/Users/hakizimanaemmanuel/CLionProjects/Ping-Pong/cmake-build-debug/CMakeFiles/Ping-Pong.dir
+/Users/hakizimanaemmanuel/CLionProjects/Ping-Pong/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hakizimanaemmanuel/CLionProjects/Ping-Pong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
